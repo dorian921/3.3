@@ -1,0 +1,17 @@
+table{border-style: solid;
+    color: black;
+    padding:5px;
+    background-color: red;
+}
+
+td{border-style:solid ;
+    color: white;
+
+
+}
+
+th{border-style: solid;
+    color: white;
+
+
+}
